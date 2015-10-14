@@ -1,0 +1,2 @@
+required:
+  [uid,url,media_type]

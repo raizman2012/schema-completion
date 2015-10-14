@@ -1,0 +1,3 @@
+required:
+  [person, title, person_array]
+

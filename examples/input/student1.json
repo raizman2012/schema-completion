@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "schema for student",
+  "description": "description for student",
+  "type": "object",
+  "properties": {
+    "first_name": null,
+    "last_name": null
+  },
+  "required": [
+    "total_amount",
+    "contact_info"
+  ],
+  "definition" : {
+    "contact_info" : {}
+  }
+}

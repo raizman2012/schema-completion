@@ -1,0 +1,2 @@
+required:
+  [learning,classroom,duration_hours,begin_date,student_array]

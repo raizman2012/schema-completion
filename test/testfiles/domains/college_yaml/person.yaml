@@ -1,0 +1,10 @@
+properties:
+  firstname:
+  lastname:
+  avatar:
+required:
+  [id, created_date, active, contact_info, profile]
+definitions:
+  contact_info:
+    required:
+      [address,phone,email]

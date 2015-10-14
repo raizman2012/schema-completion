@@ -1,0 +1,36 @@
+1. repositories of core schemas: version, kind of 'install dependencies'
+    user can search, contribute, etc
+    as for schema, number of extentions: translations, validations, orm schemas, icons, images
+
+1.1 repository for 'organization' as role and relationaships
+    for example 'CEO,manager,secretary, employer, teacher, student',
+
+2. repository of transformations
+    yaml - json schema
+    json schema - api
+    json schema - sql, mongodb
+
+3. repository of generators
+    random data generator
+    test generator
+    UI generator
+
+4. repository of patterns for working with data
+    direct update
+    change request -> change approve -> update -> report
+    add request -> payment -> update -> report
+
+
+    Designer: give name for application
+              search for 'entity-domain', choose.
+              choose 'organization'
+              add roles, assign
+              add views for core data
+              apply patterns how data can be changed
+              add views for secondary data data(requests, approvements, ...)
+              assign what actors can do
+              choose SaaS
+                persistence
+                workflow
+                notification
+                ... more

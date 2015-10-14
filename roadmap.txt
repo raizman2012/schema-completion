@@ -1,0 +1,39 @@
+define model with YAML, OK
+
+create JSON SCHEMA, OK
+
+complete SCHEMA, OK
+
+create mongodb schema OK
+
+create domain scope metadata OK
+
+create MOCK data as Jsons for primitives OK
+
+load MOCK data to mongodb
+
+create MOCK relationaships in MONGO
+
+create test spec for mongo
+
+create express routers + tests
+
+create USECASES
+
+complete USECASES
+
+create API
+
+create VIEWS
+
+create DECISIONS
+
+create ACCESS rules( for what?)
+
+create STORAGE schema(s)
+
+create translation bundles
+
+support versions+GIT
+
+support cloud services (calendar, dropbox)

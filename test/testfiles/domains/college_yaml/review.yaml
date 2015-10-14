@@ -1,0 +1,2 @@
+required:
+  [id,date,refid,actor,text,media_array]

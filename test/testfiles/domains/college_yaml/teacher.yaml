@@ -1,0 +1,3 @@
+required:
+  [person, course_array, skill_array]
+

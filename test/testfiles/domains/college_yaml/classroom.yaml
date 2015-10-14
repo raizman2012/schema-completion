@@ -1,0 +1,6 @@
+properties:
+  description:
+  per_day_price:
+  size:
+required:
+  [location,address,tool_array]

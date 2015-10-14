@@ -1,0 +1,9 @@
+required:
+    - "active"
+    - "description"
+    - "topic_array"
+    - "lecture_array"
+    - "facility_array"
+    - "tag_array"
+    - "recommended_for_data"
+    - "prerequisite_course_array"
